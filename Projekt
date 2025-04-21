@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Connect - Intercultural Communication & Language Training</title>
+    <style>
+        /* Basic Styling for better readability - you can expand this or link an external CSS file */
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background: #444;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2rem 0;
+        }
+        section {
+            background: #fff;
+            margin-bottom: 1rem;
+            padding: 1.5rem;
+            border-radius: 5px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            margin-top: 2rem;
+            padding: 1rem;
+            background: #333;
+            color: #fff;
+        }
+        ul {
+            list-style: disc;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Global Connect Training</h1>
+        <p>Bridging Cultures, Connecting Worlds</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+
+        <section id="home">
+            <h2>Welcome to Global Connect Training</h2>
+            <p>Your partner in navigating the complexities of global communication. We specialize in high-quality intercultural communication training and practical language courses designed to help individuals and organizations thrive in an interconnected world.</p>
+            <p>Whether you're expanding your business internationally, managing a multicultural team, or simply wish to enhance your personal communication skills, we have the right solution for you.</p>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Founded on the principle that effective communication is the cornerstone of successful global interaction, Global Connect Training is dedicated to fostering understanding and collaboration across cultural boundaries.</p>
+            <p>Our mission is to empower our clients with the knowledge, skills, and confidence to communicate effectively and respectfully in diverse cultural contexts. We believe in practical, engaging learning experiences tailored to meet specific needs.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>We offer a range of services designed to meet diverse needs:</p>
+            
+            <h3>Intercultural Communication Training</h3>
+            <ul>
+                <li>Cross-Cultural Awareness Workshops</li>
+                <li>Managing Multicultural Teams</li>
+                <li>Global Leadership Skills</li>
+                <li>International Business Etiquette</li>
+                <li>Customized Corporate Training Programs</li>
+            </ul>
+
+            <h3>Language Courses</h3>
+            <ul>
+                <li>Business English</li>
+                <li>Conversational German</li>
+                <li>Spanish for Travelers</li>
+                <li>French for Beginners</li>
+                <li>(Other languages available upon request)</li>
+                <li>Focus on practical usage and cultural context</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Ready to enhance your communication skills? Get in touch with us today!</p>
+            <ul>
+                <li><strong>Email:</strong> info@globalconnecttraining.example.com</li>
+                <li><strong>Phone:</strong> +123 456 7890</li>
+                <li><strong>Address:</strong> 123 Culture Street, Global City, World</li>
+            </ul>
+            <p><em>Please replace the placeholder contact details with your actual information.</em></p>
+            </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Global Connect Training. All Rights Reserved.</p>
+        </footer>
+
+</body>
+</html>
